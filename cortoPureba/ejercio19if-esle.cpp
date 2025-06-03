@@ -6,7 +6,7 @@ int main (){
     double tarifa=0.1;
 
     cout<<"Welcome to the pay your energy house"<<endl;
-    cout<<"Please pay your bill "
+    cout<<"Please pay your bill "<<endl;
 
     return 0;
 }
